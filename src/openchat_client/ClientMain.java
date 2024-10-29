@@ -3,8 +3,7 @@ package openchat_client;
 public class ClientMain {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		ClientFrame clientFrame = new ClientFrame(600, 800);
 	}
 
 }
